@@ -5,7 +5,7 @@ canvas.width = 700;
 canvas.height = 700;
 
 ctx.strokeStyle = "#2c2c2c";
-ctx.linewidth = 2.5;
+ctx.linewidth = 3;
 
 let painting = false;
 
